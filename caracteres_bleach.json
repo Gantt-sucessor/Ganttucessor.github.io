@@ -1,0 +1,639 @@
+{
+    "Shinigami": [
+      {
+        "name": "Ichigo Kurosaki",
+        "rank": "Substituto de Shinigami",
+        "zanpakuto": "Zangetsu",
+        "image": "https://i.pinimg.com/736x/95/13/85/95138564cfb1ee2385051ba6d42ade66.jpg",
+        "image2": "https://i.pinimg.com/736x/56/51/fd/5651fd224d54363ac5cf65a4b6b8d667.jpg"
+      },
+     
+      {
+        "name": "Yumichika Ayasegawa",
+        "rank": "5° Oficial da 11° Divisão",
+        "zanpakuto": "Ruri'iro Kujaku",
+        "image": "https://imgs.search.brave.com/1xLHZJTP13E9AKltx3sOOJTDM08PBL5m-uQj130rPu0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YmxlYWNoLWJyYXZl/c291bHMuY29tL2Fz/c2V0cy9pbWcvY2hh/cmFjdGVyL2FwcGVh/cmFuY2UvMDIvY2hh/cmFjdGVyX3l1bWlj/aGlrYV8wMS5wbmc",
+        "image2": "https://i.pinimg.com/736x/b6/11/98/b611980dfa0d75259eb7c519c6c2995f.jpg"
+      },
+      {
+        "name": "Nanao Ise",
+        "rank": "Tenente da 1ª Divisão",
+        "zanpakuto": "Shinken Hakkyōken",
+        "image": "https://imgs.search.brave.com/IV4kgMuEQjDu2eB0ysCr1aHRjwY4IZ-mY20L2XvOnA8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2QzLzE5/LzJiL2QzMTkyYjM0/MjA3MjBkYmU0OTYz/MDg2NDExNzU0Mjk4/LmpwZw",
+        "image2": "https://i.pinimg.com/736x/0b/50/34/0b50347a77313b321dca2e6e5a0ccd73.jpg"
+      },
+      {
+        "name": "Isane Kotetsu",
+        "rank": "Capitã da 4ª Divisão",
+        "zanpakuto": "Itegumo ",
+        "image": "https://imgs.search.brave.com/CGJls5jDmw4ZXW3X5VPasZ0MOLB4orgCyoyyzyUFBd0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMxLmNicmltYWdl/cy5jb20vd29yZHBy/ZXNzL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIxLzA2L2lzYW5l/LWtvdGV0c3UtYW1p/ZC1ydWJibGUuanBn",
+        "image2": "https://i.pinimg.com/736x/96/ad/b6/96adb688e127a1f9cc0803621c91e5d6.jpg"
+      },
+      {
+        "name": "Shinji Hirako",
+        "rank": "Capitão da 5° divisão",
+        "zanpakuto": "Sakanade",
+        "image": "https://i.pinimg.com/736x/f1/e9/07/f1e90715302401789a797c198845e421.jpg",
+        "image2": "https://i.pinimg.com/736x/21/c5/7f/21c57f5d39dbcb6a142f3c9f90bcaf82.jpg"
+      },
+ 
+      {
+        "name": "Chōjirō Sasakibe",
+        "rank": "Sub-capitão da 1 ª Divisão",
+        "zanpakuto": "Gonryōmaru ",
+        "image": "https://imgs.search.brave.com/-W7SEuYwWaCDifoBia7KZR_eMSvY1-IyQ2Jrl4aZorQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLmdhbWVyYW50/aW1hZ2VzLmNvbS93/b3JkcHJlc3Mvd3At/Y29udGVudC91cGxv/YWRzLzIwMjIvMDIv/U2FzYWtpYmUtQ2hv/amlyby5qcGc",
+        "image2": "https://i.pinimg.com/736x/8b/57/29/8b5729169816e489c38c47bf56cb8cf2.jpg"
+      },
+
+      {
+        "name": "Gin Ichimaru",
+        "rank": "Antigo capitão da 3° divisão",
+        "zanpakuto": "Shinsō",
+        "image": "https://i.pinimg.com/736x/c6/7b/ef/c67bef268247ff6ad897930123c3362b.jpg",
+        "image2": "https://i.pinimg.com/736x/35/9c/1a/359c1ac008801c6a0aab2ee0d545454e.jpg"
+      },
+
+      {
+        "name": "Momo Hinamori",
+        "rank": "Tenente da 12ª Divisão",
+        "zanpakuto": "",
+        "image": "https://i.pinimg.com/736x/38/07/eb/3807eb1ebc64e09c012521a063095a9e.jpg",
+        "image2": "https://i.pinimg.com/736x/5f/2d/b3/5f2db33a00ab45ac39fb06cced5bb11a.jpg"
+      },
+
+      {
+        "name": "Nemu Kurotsuchi",
+        "rank": "Tenente da 5ª Divisão",
+        "zanpakuto": "Tobiume",
+        "image": "https://i.pinimg.com/736x/9d/8c/d6/9d8cd617d948bdf490c5d26e6dc1fef4.jpg",
+        "image2": "https://i.pinimg.com/736x/e4/b9/1a/e4b91ac8be69ac0126716736f54861c3.jpg"
+      },
+
+      {
+        "name": "Jūshirō Ukitake",
+        "rank": "Antigo capitão da 13° divisão",
+        "zanpakuto": "Sōgyo no Kotowari ",
+        "image": "https://i.pinimg.com/736x/9e/bb/53/9ebb537afe2475bdd773e5f39aba278b.jpg",
+        "image2": "https://i.pinimg.com/736x/9e/4e/ea/9e4eea2c57a1eb3e3e9581e3bd2ed266.jpg"
+      }, 
+
+      {
+        "name": "Hiyori Sarugaki",
+        "rank": "Antiga tenente do 12° divisão",
+        "zanpakuto": "Kubikiri Orochi",
+        "image": "https://vignette.wikia.nocookie.net/bleach/images/e/eb/O278_Profilowe_Hiyori.png/revision/latest?cb=20200325000722&path-prefix=pl",
+        "image2": "https://i.pinimg.com/736x/63/75/58/6375583df049f0c6a23077b79f1e807c.jpg"
+      },
+
+      {
+        "name": "Izuru Kira",
+        "rank": "Tenente da 3° divisão",
+        "zanpakuto": "Kubikiri Orochi",
+        "image": "https://i.pinimg.com/736x/4e/b1/ff/4eb1ff85ce5dde69f864696b4a2924d2.jpg",
+        "image2": "https://i.pinimg.com/736x/87/31/6d/87316dff9165ae39bed5714f7f762cf6.jpg"
+      },
+
+      {
+        "name": "Kisuke Urahara",
+        "rank": "Antigo capitão da 12° divisão",
+        "zanpakuto": "Benihime",
+        "image": "https://i.pinimg.com/736x/00/8d/79/008d79a142b7f1658dd9ee79c9e5f72e.jpg",
+        "image2": "https://i.pinimg.com/736x/19/cf/30/19cf3044a6d3b0d089d02a4d072530f7.jpg"
+      },
+
+      {
+        "name": "Genryūsai Shigekuni Yamamoto",
+        "rank": "Antigo capitão comandante",
+        "zanpakuto": "Ryūjin Jakka",
+        "image": "https://i.pinimg.com/736x/2d/bd/b6/2dbdb64294e7f7b0ebed6d30733fa8ac.jpg",
+        "image2": "https://i.pinimg.com/736x/04/0b/c3/040bc3812223c4006293659737454a1b.jpg"
+      },
+
+      {
+        "name": "Mashiro Kuna",
+        "rank": "Co-tenente da 9° divisão",
+        "zanpakuto": "",
+        "image": "https://i.pinimg.com/736x/2b/86/0c/2b860ced13a1061508153b1bccb639f6.jpg",
+        "image2": "https://i.pinimg.com/736x/b8/39/28/b83928630885c5ff0d43dbab2dbed4a9.jpg"
+      },
+
+      {
+        "name": "Renji Abarai",
+        "rank": "Tenente da 6° divisão",
+        "zanpakuto": "Zabimaru",
+        "image": "https://i.pinimg.com/736x/5f/80/04/5f80040da7c54fb73a51dc386be3989d.jpg",
+        "image2": "https://i.pinimg.com/736x/7a/a7/c9/7aa7c937586b38c654b2ccf860e98426.jpg"
+      },
+
+      {
+        "name": "Tōshirō Hitsugaya",
+        "rank": "Capitão da 10° divisão",
+        "zanpakuto": "Hyōrinmaru",
+        "image": "https://i.pinimg.com/736x/ed/fc/23/edfc231d8e145522015275745caa8e0d.jpg",
+        "image2": "https://i.pinimg.com/736x/78/56/e7/7856e7de8c79f3a86c109d828146077f.jpg"
+      },
+
+      {
+        "name": "Retsu Unohana",
+        "rank": "Capitã da 11° divisão",
+        "zanpakuto": "Minazuki ",
+        "image": "https://th.bing.com/th/id/OIP.nYVM8kh21nmEHjDhMAl4dQHaK0?rs=1&pid=ImgDetMain",
+        "image2": "https://i.pinimg.com/736x/60/07/5f/60075fccd5938ab52dbfec275990bc8e.jpg"
+      },
+
+      {
+        "name": "Shūhei Hisagi",
+        "rank": "Co-Tenente da 9° divisão",
+        "zanpakuto": "Kazeshini",
+        "image": "https://i.pinimg.com/736x/c1/ee/ef/c1eeefc03b31b1118dc7fa4308906fb0.jpg",
+        "image2": "https://i.pinimg.com/736x/4e/51/3d/4e513dd5569a0f4b7a11044bd41e5ecf.jpg"
+      },
+
+      {
+        "name": "Shunsui Kyōraku",
+        "rank": "Atual Comandante Capitão",
+        "zanpakuto": "Katen Kyōkotsu",
+        "image": "https://i.pinimg.com/736x/f3/92/48/f392483eb588ea9405e1f14f40678e0b.jpg",
+        "image2": "https://i.pinimg.com/736x/9d/07/3c/9d073c7e299097af16d5abf9c0da8497.jpg"
+      },
+
+      {
+        "name": "Yuyu Yayahara",
+        "rank": "Atual tenente da 8° Divisão",
+        "zanpakuto": "",
+        "image": "https://th.bing.com/th/id/OIP.5XM1hJdoiB2hce0o6GckyAAAAA?rs=1&pid=ImgDetMain",
+        "image2": "https://i.pinimg.com/736x/36/4c/86/364c867e7ef357353f81988878032ee4.jpg"
+      },
+
+      {
+        "name": "Yachiru Kusajishi",
+        "rank": "Tenente da 11° Divisão",
+        "zanpakuto": "Sanpo Kenjū",
+        "image": "https://i.pinimg.com/736x/4c/bd/eb/4cbdebc579fa379e99c6abe87eaa4853.jpg",
+        "image2": "https://i.pinimg.com/736x/f1/3a/3d/f13a3d75567dbe14a74372d4a008094d.jpg"
+      },
+
+      {
+        "name": "Rōjūrō Ōtoribashi",
+        "rank": "Atual Capitão da 3° divisao",
+        "zanpakuto": "Kinshara",
+        "image": "https://i.pinimg.com/736x/be/c5/e3/bec5e387c898d5e5eaa803ff0aa6c2ad.jpg",
+        "image2": "https://i.pinimg.com/736x/4d/80/41/4d80414d406391e64b7bbb708914fc04.jpg"
+      },
+
+      {
+        "name": "Mayuri Kurotsuchi",
+        "rank": "Capitão da 12° divisao",
+        "zanpakuto": "Ashisogi Jizō ",
+        "image": "https://i.pinimg.com/736x/a0/71/cb/a071cb530efb7add63d80eceaa018e50.jpg",
+        "image2": "https://i.pinimg.com/736x/fc/06/64/fc0664f8613f3bceccbad1b3e18a8de1.jpg"
+      },
+
+      {
+        "name": "Yoruichi Shihōin",
+        "rank": "Antiga Capitã da 2° divisao",
+        "zanpakuto": "",
+        "image": "https://i.pinimg.com/736x/ae/54/0a/ae540a251d915a1ac41451aa247b9dfe.jpg",
+        "image2": "https://i.pinimg.com/736x/04/94/87/049487381f75e4dbcc0a8c24711265f8.jpg"
+      },
+
+      {
+        "name": "Kenpachi Zaraki",
+        "rank": "Capitão da 11° divisao",
+        "zanpakuto": "Nozarashi",
+        "image": "https://i.pinimg.com/736x/1a/2d/28/1a2d28f0a532254d7fab2c8d73e498bd.jpg",
+        "image2": "https://i.pinimg.com/736x/6f/f3/29/6ff3292f2f5853b5c5b9bc6ff068a6e2.jpg"
+      },
+
+      {
+        "name": "Sōsuke Aizen",
+        "rank": "Antigo Capitão da 5° divisao",
+        "zanpakuto": "Kyōka Suigetsu",
+        "image": "https://i.pinimg.com/736x/14/dc/bd/14dcbdb8c17d0aa6a36914a402c52cce.jpg",
+        "image2": "https://i.pinimg.com/736x/51/f7/a2/51f7a237970d37d972cc46b0f93ff3ac.jpg"
+      },
+
+      {
+        "name": "Sui-Feng",
+        "rank": "Capitã da 2° divisao",
+        "zanpakuto": "Suzumebachi",
+        "image": "https://i.pinimg.com/736x/0a/1a/03/0a1a03478a1521a2d30fed4a1cf5c2da.jpg",
+        "image2": "https://i.pinimg.com/736x/6a/51/a5/6a51a56e831d33be9eefdc7d1072b39a.jpg"
+
+      },
+
+      {
+        "name": "Rukia Kuchiki",
+        "rank": "Capitã da 13° divisao",
+        "zanpakuto": "Sode no Shirayuki",
+        "image": "https://i.pinimg.com/736x/65/93/3b/65933b0ef8e0fe09e636d70db8cf1a58.jpg",
+        "image2": "https://i.pinimg.com/736x/07/be/aa/07beaac2eed3b0afe2167d2dfed75c2c.jpg"
+      },
+
+      {
+        "name": "Byakuya Kuchiki",
+        "rank": "Capitão da 6° divisao",
+        "zanpakuto": "Senbonzakura",
+        "image": "https://i.pinimg.com/736x/30/7d/65/307d65ce7a1aa92db6657ec80c8ca3e4.jpg",
+        "image2": "https://i.pinimg.com/736x/e2/7f/91/e27f91739b16e41a9ac7671d5c27a99b.jpg"
+      },
+
+      {
+        "name": "Tenjirō Kirinji",
+        "rank": "Gaurda Real",
+        "zanpakuto": "",
+        "image": "https://i.pinimg.com/736x/d4/df/dc/d4dfdca4a2ac23d62ea968499f29713c.jpg",
+        "image2": "https://i.pinimg.com/736x/02/4d/9d/024d9d5db588c4c1e88bd19098b025ae.jpg"
+      },
+
+      {
+        "name": "Kirio Hikifune",
+        "rank": "Gaurda Real",
+        "zanpakuto": "",
+        "image": "https://i.pinimg.com/736x/0c/72/b8/0c72b8aaf4d807fbb79bc351fae9ac48.jpg",
+        "image2": "https://i.pinimg.com/736x/e1/a8/f5/e1a8f548ddc4ada498c3d7a6f9a2c943.jpg"
+      },
+
+      {
+        "name": "Ōetsu Nimaiya",
+        "rank": "Gaurda Real",
+        "zanpakuto": "",
+        "image": "https://i.pinimg.com/736x/8b/16/19/8b1619349ace50d2fe2457dc435635ce.jpg",
+        "image2": "https://i.pinimg.com/736x/5f/4b/76/5f4b7645cf5585d2c05ff68cea523300.jpg"
+      },
+
+      {
+        "name": "Senjumaru Shutara",
+        "rank": "Gaurda Real",
+        "zanpakuto": "",
+        "image": "https://i.pinimg.com/736x/56/c5/eb/56c5eb5f1734efebcdbdfba3867a8d33.jpg",
+        "image2": "https://i.pinimg.com/736x/6f/22/35/6f2235709ad6cec657c2015ecc295411.jpg"
+      },
+
+      {
+        "name": "Ichibē Hyōsube",
+        "rank": "Gaurda Real",
+        "zanpakuto": "Ichimonji",
+        "image": "https://i.pinimg.com/736x/99/88/13/998813ec3b7addf3439606373e992db8.jpg",
+        "image2": "https://i.pinimg.com/736x/fa/2d/f6/fa2df61dcce8851d198c88c8a454fde8.jpg"
+      }
+    ],
+    "Quincy": [
+      {
+        "name": "Uryu Ishida",
+        "rank": "Quincy",
+        "special_ability": " A - Antithesis",
+        "image": "https://i.pinimg.com/736x/af/07/96/af079635e048159e24f78ec9b631600a.jpg",
+        "image2": "https://i.pinimg.com/736x/ba/26/99/ba269923b5bf45ea7ccbe72987b16567.jpg"
+      },
+
+      {
+        "name": "Yhwach",
+        "rank": "Rei Quincy",
+        "special_ability": "A - The Almighty ",
+        "image": "https://i.pinimg.com/736x/85/19/0b/85190b7e3d6a277918a0d23c1a92f381.jpg",
+        "image2": "https://i.pinimg.com/736x/67/60/ea/6760eafa3f26b749dbb29f2db20fcd64.jpg"
+      },
+
+      {
+        "name": "Gremmy Thoumeaux",
+        "rank": "Quincy",
+        "special_ability": "V - The Visionary",
+        "image": "https://i.pinimg.com/736x/1f/64/95/1f64950bbed3b064f70b50664299eda7.jpg",
+        "image2": "https://i.pinimg.com/736x/2a/ba/8e/2aba8e1fe1a7d2f3f1fa4ab6128539b7.jpg"
+      },
+
+      {
+        "name": "Lille Barro",
+        "rank": "Elite do Rei Quincy",
+        "special_ability": "X - The X-Axis",
+        "image": "https://i.pinimg.com/originals/99/ca/34/99ca347559e90401522f1e0ffdc1ccc3.png",
+        "image2": "https://i.pinimg.com/736x/2c/7f/c6/2c7fc6482f8589a90d642d71fbd55e2e.jpg"
+      },
+
+      
+      {
+        "name": "NaNaNa Najahkoop",
+        "rank": "Exercito Quincy",
+        "special_ability": "U - The Underbelly",
+        "image": "https://vignette.wikia.nocookie.net/bleach/images/6/64/R566_NaNaNa_Najahkoop.png/revision/latest?cb=20140129114115&path-prefix=pl",
+        "image2": "https://i.pinimg.com/736x/38/57/d3/3857d378c38d54440b8b8ffcc146fa59.jpg"
+      },
+
+      {
+        "name": "BG9",
+        "rank": "Exercito Quincy",
+        "special_ability": "K - ",
+        "image": "https://th.bing.com/th/id/R.b1099dc1cae1c3ea25eef86c2be4e669?rik=IeFtWcplr2hT7A&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20141122023802%2fbleach%2fen%2fimages%2f1%2f18%2f550BG9_reveals.png&ehk=vxsosi2aUi%2bwZVhZR24bGpgx%2fLbt6p6PXl0NkWDBl%2fE%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
+        "image2": "https://i.pinimg.com/736x/51/15/d3/5115d3d7938d03702d738f74dfd87c62.jpg"
+      },
+
+      {
+        "name": "Berenice Gabrielli",
+        "rank": "Exercito Quincy",
+        "special_ability": "",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f728f2c0-1401-403e-975a-f552b32ee223/dfde3dp-d29c6c51-d665-42b3-8cf0-bbff2a7d9bd6.png/v1/fill/w_420,h_528,q_80,strp/berenice_gabrielli__manga_color__3_by_blackbommer22_dfde3dp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTI4IiwicGF0aCI6IlwvZlwvZjcyOGYyYzAtMTQwMS00MDNlLTk3NWEtZjU1MmIzMmVlMjIzXC9kZmRlM2RwLWQyOWM2YzUxLWQ2NjUtNDJiMy04Y2YwLWJiZmYyYTdkOWJkNi5wbmciLCJ3aWR0aCI6Ijw9NDIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.GuQ89BrkuLeDpIkyolktGxfhCBmjotq2oDseDW11KeQ",
+        "image2": "https://i.pinimg.com/736x/6a/ed/0e/6aed0ec81cabd19a896383f8a14888c0.jpg"
+      },
+
+      {
+        "name": "Giselle Gewelle",
+        "rank": "Exercito quincy",
+        "special_ability": "Z: The Zombie",
+        "image": "https://th.bing.com/th/id/OIP.58KMBET3EfOVyrcB8BdkfAAAAA?rs=1&pid=ImgDetMain",
+        "image2": "https://i.pinimg.com/736x/c3/59/73/c3597359552878c265cd2f473e9350bd.jpg"
+      },
+
+      {
+        "name": "Robert Accutrone",
+        "rank": "Exercito quincy",
+        "special_ability": "N - ???",
+        "image": "https://i.pinimg.com/736x/12/ad/ef/12adefd16adda7c6414344ff48445798.jpg",
+        "image2": "https://i.pinimg.com/736x/96/0e/4d/960e4d67bf9d93e6146797c7822bbb63.jpg"
+      },
+
+      {
+        "name": "Ryūken Ishida",
+        "rank": "Quincy",
+        "special_ability": "",
+        "image": "https://i.pinimg.com/736x/7e/c3/55/7ec355e453a0f4aa92e587de25cbf1f0.jpg",
+        "image2": "https://i.pinimg.com/736x/da/d5/82/dad5822a8a6035c70c39e9573a23b341.jpg"
+      },
+
+      {
+        "name": "Royd Lloyd",
+        "rank": "Exercito Quincy",
+        "special_ability": " Y - The Yourself",
+        "image": "https://i.pinimg.com/736x/83/8c/36/838c36b744a2f542b4f88f12a99987ea.jpg",
+        "image2": "https://i.pinimg.com/736x/24/fe/2f/24fe2f81c3ca95f7e88c451c8d19e4db.jpg"
+      },
+
+      {
+        "name": "Askin Nakk Le Vaar",
+        "rank": "Elite do Rei Quincy",
+        "special_ability": " D - The Deathdealing",
+        "image": "https://i.pinimg.com/736x/ed/76/ff/ed76ff304681c291b52c3f229f2dcf6a.jpg",
+        "image2": "https://i.pinimg.com/736x/6e/d2/f1/6ed2f143f7d34e34b92acf9d1a4e7332.jpg"
+      },
+
+      {
+        "name": "Cang Du",
+        "rank": "Exercito Quincy",
+        "special_ability": "I: The Iron",
+        "image": "https://i.pinimg.com/736x/67/88/94/678894002d3950d126f0af0c2786e609.jpg",
+        "image2": "https://i.pinimg.com/736x/90/6d/05/906d05c89203ccc70b0a7f1cb90a1913.jpg"
+      },
+
+      {
+        "name": "Mask De Masculine",
+        "rank": "Exercito Quincy",
+        "special_ability": "S - The Superstar",
+        "image": "https://i.pinimg.com/736x/9a/88/a8/9a88a82441fb9f0c1d0e761158247cf0.jpg",
+        "image2": "https://i.pinimg.com/736x/83/4b/87/834b87b5488a05f7fefd16766072ee83.jpg"
+      },
+
+      {
+        "name": "As Nodt",
+        "rank": "Exercito Quincy",
+        "special_ability": "F - The Fear",
+        "image": "https://i.pinimg.com/736x/45/3a/bb/453abba7f6f1537f52f8a57fda660100.jpg",
+        "image2": "https://i.pinimg.com/736x/ff/d7/ca/ffd7ca7480cc35fce90e8e63c0e38643.jpg"
+      },
+
+
+      {
+        "name": "Candice Catnipp",
+        "rank": "Exercito Quincy",
+        "special_ability": "T -The Thunderbolt",
+        "image": "https://i.pinimg.com/736x/96/84/ea/9684eacfb579c352a976c52ace9d80ca.jpg",
+        "image2": "https://i.pinimg.com/736x/fe/b5/ae/feb5ae32fbed042c16d1a860149b3515.jpg"
+      },
+
+      {
+        "name": "Pernida Parnkgjas",
+        "rank": "Elite do Rei Quincy",
+        "special_ability": "C - The Compulsory",
+        "image": "https://i.pinimg.com/736x/91/a0/82/91a082463784188053bc4c632ea4a39c.jpg",
+        "image2": "https://i.pinimg.com/736x/1d/87/08/1d8708de7dad3ceefd7b59efeb61e365.jpg"
+      },
+
+      {
+        "name": "Jugram Haschwalth",
+        "rank": "Elite do Rei Quincy",
+        "special_ability": "B - Balance",
+        "image": "https://i.pinimg.com/736x/98/33/55/98335542c57d45159bd33491d04ddb7d.jpg",
+        "image2": "https://i.pinimg.com/736x/38/1b/84/381b84330954fd29e834b6f417948e82.jpg"
+      },
+
+      {
+        "name": "Quilge Opie",
+        "rank": "Exercito Quincy",
+        "special_ability": "J - The Jail Quilge Opie of the Jail",
+        "image": "https://i.pinimg.com/736x/ba/e9/61/bae961a99208b2c2c16add22067f73f3.jpg",
+        "image2": "https://i.pinimg.com/736x/3b/38/f4/3b38f4545e38b8db92cfbe07587738bd.jpg"
+      },
+
+      {
+        "name": "Gerard Valkyrie",
+        "rank": "Elite do Rei Quincy",
+        "special_ability": "M - The Miraclel",
+        "image": "https://i.pinimg.com/736x/3c/96/e7/3c96e75fea05a69fee9a48ffbe044a49.jpg",
+        "image2": "https://i.pinimg.com/736x/c3/b4/3b/c3b43b38472daae552ed09c5f95cdf47.jpg"
+      },
+
+      {
+        "name": "Guenael Lee",
+        "rank": "Exercito Quincy",
+        "special_ability": "V - Vanishing Point",
+        "image": "https://i.pinimg.com/736x/e4/cf/43/e4cf431c641f06c4f336f9f96630c930.jpg",
+        "image2": "https://imgs.search.brave.com/ycsiCdSkrcT2gsBaWroArzRjfM2ejjavbhZ1DKMXQek/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Zz/YmF0dGxlcy9pbWFn/ZXMvNi82Ni9HdWVu/YWVsX0xlZV9SZW5k/ZXIucG5nL3Jldmlz/aW9uL2xhdGVzdC9z/Y2FsZS10by13aWR0/aC1kb3duLzIyMD9j/Yj0yMDIzMDkwOTIz/MTkyNA"
+      },
+
+      {
+        "name": "Meninas McAllon",
+        "rank": "Exercito Quincy",
+        "special_ability": "P - The Power",
+        "image": "https://i.pinimg.com/736x/72/66/cf/7266cf42cfd4c6774afd8e3ba74ccc5e.jpg",
+        "image2": "https://i.pinimg.com/736x/a1/51/93/a15193da04f58590ef7c40c7f9bcd6bf.jpg"
+      },
+
+      {
+        "name": "Bazz-B",
+        "rank": "Exercito Quincy",
+        "special_ability": "H- The Heat",
+        "image": "https://i.pinimg.com/736x/e8/be/a3/e8bea396bbeb672fb1e169fe50e2c39a.jpg",
+        "image2": "https://i.pinimg.com/736x/f2/29/13/f22913765b51d1cec3f39b29d68e095c.jpg"
+      },
+
+      {
+        "name": "Jerome Guizbatt",
+        "rank": "Exercito Quincy",
+        "special_ability": "R - The Roar",
+        "image": "https://i.pinimg.com/736x/35/5b/43/355b4381ee00e2397fef3f751fbdd02b.jpg",
+        "image2": "https://imgs.search.brave.com/5DRXCQt4AqFhlczcU1JzJhSUnHXqKO-87WIUUAYxgCI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtd2l4bXAtZWQz/MGE4NmI4YzRjYTg4/Nzc3MzU5NGMyLndp/eG1wLmNvbS9mL2I4/MTJhN2U1LWNjNDQt/NGU1YS1hYTkxLTJj/MjdjZDgwNmJmOS9k/YWpkNDlkLWU5MTZh/MDcxLTQyYjUtNDdl/Ni1iMTBlLWY0YTAw/NjQ1NWI2Ny5qcGcv/djEvZmlsbC93XzYw/MCxoXzgzNixxXzc1/LHN0cnAvamVyb21l/X2d1aXpiYXR0X19f/c3Rlcm5yaXR0ZXJf/ZW5jeWNsb3BlZGlh/X2J5X3RvbW1vMjMw/NF9kYWpkNDlkLWZ1/bGx2aWV3LmpwZz90/b2tlbj1leUowZVhB/aU9pSktWMVFpTENK/aGJHY2lPaUpJVXpJ/MU5pSjkuZXlKemRX/SWlPaUoxY200NllY/QndPamRsTUdReE9E/ZzVPREl5TmpRek56/TmhOV1l3WkRReE5X/VmhNR1F5Tm1Vd0lp/d2lhWE56SWpvaWRY/SnVPbUZ3Y0RvM1pU/QmtNVGc0T1RneU1q/WTBNemN6WVRWbU1H/UTBNVFZsWVRCa01q/WmxNQ0lzSW05aWFp/STZXMXQ3SW1obGFX/ZG9kQ0k2SWp3OU9E/TTJJaXdpY0dGMGFD/STZJbHd2Wmx3dllq/Z3hNbUUzWlRVdFky/TTBOQzAwWlRWaExX/RmhPVEV0TW1NeU4y/TmtPREEyWW1ZNVhD/OWtZV3BrTkRsa0xX/VTVNVFpoTURjeExU/UXlZalV0TkRkbE5p/MWlNVEJsTFdZMFlU/QXdOalExTldJMk55/NXFjR2NpTENKM2FX/UjBhQ0k2SWp3OU5q/QXdJbjFkWFN3aVlY/VmtJanBiSW5WeWJq/cHpaWEoyYVdObE9t/bHRZV2RsTG05d1pY/SmhkR2x2Ym5NaVhY/MC5uUGZ0MUtsUUox/djBBRDNNRXctVkNu/aE13anZDZlpCb0Fn/Qnp2YWVuRjhV"
+      },
+
+      {
+        "name": "Driscoll Berci",
+        "rank": "Exercito Quincy",
+        "special_ability": "O: The Overkill",
+        "image": "https://i.pinimg.com/736x/f8/32/62/f832629049344087a50521483c19d4c6.jpg",
+        "image2": "https://imgs.search.brave.com/eotkMcz7_FjstLDQK1OEA-LYJmoRTaOzjbYnPiiqurw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YW5pbWUtcGxhbmV0/LmNvbS9jaGFyYWN0/ZXJzL3ByaW1hcnkv/ZHJpc2NvbGwtYmVy/Y2ktMS0yODV4Mzk5/LndlYnA_dD0xNjcy/MDIzNjM3"
+      },
+
+      {
+        "name": "Liltotto Lamperd",
+        "rank": "Exercito Quincy",
+        "special_ability": "G - The Gluttton",
+        "image": "https://i.pinimg.com/736x/01/d0/2c/01d02cdfc3dbdf55b3e54e4b88d1dafb.jpg",
+        "image2": "https://i.pinimg.com/736x/3c/76/a7/3c76a767fee7024d8641173e299757b3.jpg"
+      }
+      
+    ],
+    "Fullbringer": [
+      {
+        "name": "Kugo Ginjo",
+        "affiliation": "Xcution",
+        "fullbring": "Cross of Scaffold",
+        "image": "https://i.pinimg.com/736x/96/6d/06/966d06e04eb33d6ee1628974fc499e91.jpg",
+        "image2": "https://i.pinimg.com/736x/df/73/81/df7381786ee61b18a36b69f62c5d4ee0.jpg"
+      },
+      {
+        "name": "Riruka Dokugamine",
+        "affiliation": "Xcution",
+        "fullbring": "Dollhouse",
+        "image": "https://i.pinimg.com/736x/31/d9/96/31d9963bd987e7532f91a5797f053225.jpg",
+        "image2": "https://i.pinimg.com/736x/88/6c/d9/886cd98380af2952b826a6d6dfcd1112.jpg"
+      },
+
+      {
+        "name": "Tsukishima Shuukurou",
+        "affiliation": "Xcution",
+        "fullbring": "Book of The End",
+        "image": "https://i.pinimg.com/736x/46/74/9d/46749dbf7e94f1f92a5ae0c25484df8a.jpg",
+        "image2": "https://i.pinimg.com/736x/5a/6c/1b/5a6c1b0b8bf24988bd7b5363c99471f8.jpg"
+        
+      },
+
+      {
+        "name": "Kutsuzawa Giriko",
+        "affiliation": "Xcution",
+        "fullbring": "Time Tells No Lies",
+        "image": "https://i.pinimg.com/736x/a3/6d/94/a36d941afe4d6ffde6deae4c580b025d.jpg",
+        "image2": "https://i.pinimg.com/736x/55/5a/48/555a4849a970cc4dad3c153245a6aa29.jpg"
+       
+      },
+
+      {
+        "name": "Jackie Tristan",
+        "affiliation": "Xcution",
+        "fullbring": "Dirty Boots",
+        "image": "https://i.pinimg.com/736x/bb/10/d9/bb10d9545ffa66c81169a44093bfc8d4.jpg",
+        "image2": "https://i.pinimg.com/236x/53/a9/d3/53a9d3ba04dc87adf43516f909bc8f24.jpg"
+      },
+
+      {
+        "name": "Yukio Hans Vorarlberna",
+        "affiliation": "Xcution",
+        "fullbring": "Invaders Must Die",
+        "image": "https://i.pinimg.com/736x/04/ca/00/04ca00241805f60932727f548884bdfc.jpg",
+        "image2": "https://i.pinimg.com/236x/5f/a3/30/5fa33090daec1eed96a504ffba047e90.jpg"
+      },
+
+      {
+        "name": "Moe Shishigawara",
+        "affiliation": "Xcution",
+        "fullbring": "Jackpot Knuckle",
+        "image": "https://i.pinimg.com/736x/42/11/07/4211074fe7e7d4ced71bb97518616ad0.jpg",
+        "image2": "https://i.pinimg.com/736x/cf/40/ba/cf40ba4179acb5a5a9c88e221dcf4a4d.jpg"
+      },
+
+      {
+        "name": "Sado Yasutora",
+        "affiliation": "Xcution",
+        "fullbring": "Brazo Derecha del Gigante; Brazo Izquierdo del Diablo",
+        "image": "https://i.pinimg.com/736x/3e/41/75/3e41756ea96ebea5e92b488e1b008ae6.jpg",
+        "image2": "https://i.pinimg.com/736x/b3/46/e4/b346e4207578555a59b766c3c51b47ad.jpg"
+      }
+    ],
+    "Arrancar": [
+      {
+        "name": "Ulquiorra Cifer",
+        "rank": "Espada #4",
+        "Resurrection": "Murciélago",
+        "image": "https://i.pinimg.com/736x/6f/2d/ff/6f2dff88db6f8c96dc59730074ad808a.jpg",
+        "image2": "https://i.pinimg.com/736x/2c/11/d9/2c11d95501a1c326a60c44b45d44a789.jpg"
+      },
+      {
+        "name": "Grimmjow Jaegerjaquez",
+        "rank": "Espada #6",
+        "Resurrection": "Pantera",
+        "image": "https://i.pinimg.com/736x/61/fd/47/61fd47b25f2160e85b2341393193729e.jpg",
+        "image2": "https://i.pinimg.com/736x/cb/e6/21/cbe6218d62836da2fc2e989c89fd3131.jpg"
+      },
+
+      {
+        "name": "Yammy Llargo",
+        "rank": "Espada #10",
+        "Resurrection": "Ira",
+        "image": "https://i.pinimg.com/736x/c6/bf/56/c6bf56385724fb887d51e75d6f37453d.jpg",
+        "image2": "https://i.pinimg.com/736x/e2/e5/c7/e2e5c70b356905341b372a33c9283fe2.jpg"
+      },
+
+      {
+        "name": "Nnoitra Gilga",
+        "rank": "Espada #5",
+        "Resurrection": "Santa Teresa",
+        "image": "https://i.pinimg.com/736x/2e/f3/d3/2ef3d3174a5f1fdaa7af2b42a9c5d4b6.jpg",
+        "image2": "https://i.pinimg.com/736x/14/f9/82/14f982fc83713df6bdf15fdc8df4da52.jpg"
+      },
+
+      {
+        "name": "Aaroniero Arruruerie",
+        "rank": "Espada #9",
+        "Resurrection": "Glotonería",
+        "image": "https://i.pinimg.com/736x/99/85/38/998538b3b17cdd29a9e8cedad6f6d5fa.jpg",
+        "image2": "https://i.pinimg.com/736x/28/7d/11/287d11663e0646e985c136072b6b6763.jpg"    
+      },
+      
+      {
+        "name": "Szayelaporro Granz",
+        "rank": "Espada #8",
+        "Resurrection": "Fornicarás",
+        "image": "https://i.pinimg.com/736x/6e/ef/57/6eef579b16ae2ce067557a2d66a71b90.jpg",
+        "image2": "https://i.pinimg.com/736x/54/f5/d5/54f5d5e0b9117c2213da6bc83c28b5a6.jpg"
+      },
+
+      {
+        "name": "Tier Harribel",
+        "rank": "Espada #3",
+        "Resurrection": "Tiburón",
+        "image": "https://i.pinimg.com/736x/6b/68/24/6b6824308154f6fc7ef86da23c9590ea.jpg",
+        "image2": "https://i.pinimg.com/736x/2f/d5/83/2fd583b7c8753873c0ae095dbdf63e2c.jpg"
+      },
+
+      {
+        "name": "Baraggan Louisenbairn",
+        "rank": "Espada #2",
+        "Resurrection": "Arrogante",
+        "image": "https://i.pinimg.com/736x/f9/94/28/f99428b1859482f84f6477cea18ecf63.jpg",
+        "image2": "https://i.pinimg.com/736x/5c/9e/36/5c9e36fc3ed806008a0ee29edecad083.jpg"
+      },
+
+      {
+        "name": "Coyote Starrk",
+        "rank": "Espada #1",
+        "Resurrection": "Los Lobos",
+        "image": "https://i.pinimg.com/736x/62/05/0e/62050e5d8626ebea592a8cda2e946f04.jpg",
+        "image2": "https://i.pinimg.com/736x/66/95/db/6695db3d8427e4db548e5ac142e9e258.jpg"
+      },
+
+      {
+        "name": "Nelliel Tu Odelschwanck",
+        "rank": "Antiga espada #3",
+        "Resurrection": "Gamuza",
+        "image": "https://i.pinimg.com/736x/a7/73/ac/a773ac2ac211ca2bb114c0215654b86c.jpg",
+        "image2": "https://i.pinimg.com/736x/7f/e8/7e/7fe87eaef11c83210288d9f2caed73e1.jpg"
+      }
+    ]
+  }
